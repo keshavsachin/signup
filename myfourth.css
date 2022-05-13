@@ -4,7 +4,8 @@
     background-color: aqua;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: stretch;
+    align-items: stretch;
 }
 .headercontainer {
     height: 20vh;
@@ -16,7 +17,8 @@
     width: 200px;
     display: flex;
     flex-direction: row;
-    justify-content: start;
+    justify-content: stretch;
+    align-items: stretch;
 }
 .navcontainer {
     height: 30vh;

@@ -1,0 +1,38 @@
+.main {
+    height: 100vh;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+}
+.row1 {
+    height: 100vh;
+    width: 50%;
+    background-color: blue;
+}
+.row2 {
+    height: 100vh;
+    width: 50%;
+    
+}
+.signupform {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+}
+.input {
+    margin: 10px;
+    height: 30px;
+    width: 400px;
+
+}
+.button {
+    height: 40px;
+    width: 400px;
+    background-color:blue;
+    border: none;
+}
